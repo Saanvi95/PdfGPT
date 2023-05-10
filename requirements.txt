@@ -9,3 +9,4 @@ pydantic
 typing
 faiss-cpu
 streamlit
+streamlit-chat
